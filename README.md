@@ -46,6 +46,12 @@ Este projeto foi desenvolvido com base nas orientações do bootcamp, mas aplica
 
 ---
 
+## 📘 Notebook de Estudos (NotebookLM)
+
+O caderno de estudos foi desenvolvido no NotebookLM e pode ser acessado pelo link:
+
+👉 [Acessar Notebook](https://notebooklm.google.com/notebook/f18d3ed9-d530-4a50-a83c-a91eeecb256d)
+
 ## 🚀 Próximos passos
 
 - Criar projetos práticos de análise de dados  
